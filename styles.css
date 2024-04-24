@@ -108,8 +108,8 @@ button {
     color: #eee;
 }
 .button1:hover {
-    background-color: black;
-    color: #eee;
+    background-color: white;
+    color: black;
 }
 .button2 {
     background: none;
